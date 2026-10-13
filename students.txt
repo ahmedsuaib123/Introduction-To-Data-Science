@@ -1,0 +1,4 @@
+ID  Name  CGPA
+1  Rahim  3.70
+2  Karim  3.50
+3  Nabila  3.90
