@@ -311,3 +311,9 @@ for(i in 1:10){
 }
 
 # Determine whether a number is even or odd
+num <- 14
+if(num %% 2 == 0){
+  print("Even")
+} else {
+  print("Odd")
+}
